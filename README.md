@@ -6,7 +6,7 @@ Pre requisites:
 - Install CLI: npm install -g @angular/cli
 
 Angular Version: 10
-
+- Redirect to **rabobank** folder
 - Run: **npm install**
 - Run: **ng serve**
 # Use below url to access application
