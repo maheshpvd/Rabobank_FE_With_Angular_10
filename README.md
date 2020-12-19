@@ -15,7 +15,7 @@ Angular Version: 10
 
 Input : record.csv file.
 
-- “fname”,”lname”,”issueCount”,”dateOfBirth”
-- "Theo","Jansen",5,"Jun 02 1998"
-- "Fiona","de Vries",7,"Nov 12 1950"
-- "Petra","Boersma",1,"Apr 20 2001"
+- "First Name","Sur name","Issue count","Date of Birth"
+- "Theo","Jansen",5,"Jan 01 2020"
+- "Fiona","de Vries",7,"Dec 11 1990"
+- "Petra","Boersma",1,"Apr 09 2000"
